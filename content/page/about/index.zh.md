@@ -1,8 +1,8 @@
 ---
 title: 关于
-description: 关于本站及其作者的一切。
-date: 2026-01-26
-lastmod: 2026-01-26
+description: 一个简单的自我介绍
+date: 2026-02-07
+lastmod: 2026-02-07
 menu:
     main: 
         weight: -90
@@ -10,36 +10,26 @@ menu:
             icon: user
 ---
 
-## 这是给谁看的？
+## 本站主营
 
-这是一个示例**关于**页面。你可以用它来介绍你自己、你的博客或你的项目。
+建站于2026/2/7。
 
-## 关于作者
+马年春节前的最后一个双休，在即将搬走的出租房里，百无聊赖的开始了这个blog的营业。
 
-你好！我是一个热衷于博客和开源的爱好者。我喜欢探索新技术并向社区分享我的经验。
+初心是随手记录一些技术文章和自己的实践过程。
 
-### 我的旅程
+但由于我也没什么技术，半路转码，处理本职工作内容都有点吭哧吭哧，因此很难作为参考（悲）。
 
-我在 10 多年前开始了我的 Web 开发之旅。自那以后，我参与了许多项目，从个人博客到大规模企业应用。
+会中插一些生活相关内容，手账电子化XD。
 
-### 技能
+希望本站能长久更新下去^^
 
-- **前端**: HTML, CSS, JavaScript, React, Vue
-- **后端**: Node.js, Python, Go
-- **工具**: Git, Docker, Hugo, Neovim
+## 关于作者（和她的猫）
 
-## 联系我
+ruruko，可以叫我璐璐/露露/璐子，总之请随意称呼！
 
-如果你有任何问题或只是想打个招呼，请随时联系我！
+人在上海，码农社畜，梦想是成为代码高手。
 
-- **电子邮件**: [hello@example.com](mailto:hello@example.com)
-- **Twitter**: [@example](https://twitter.com/example)
-- **GitHub**: [example](https://github.com/example)
-
----
-
-> "Logic will get you from A to B. Imagination will take you everywhere."  
-> — *Albert Einstein*
-
----
-*此页面由 AI 生成。*
+多年二刺螈，日韩女团百科全书，平手友梨奈一生推。
+ 
+家有三猫，分别是富贵招财进宝。

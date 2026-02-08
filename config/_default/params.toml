@@ -3,16 +3,14 @@ rssFullContent = true
 favicon        = "img/avatar.png"
 
 [footer]
-    since = 2020
+    since = 2026
 
 [sidebar]
-    emoji    = "✏️"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     avatar   = "img/avatar.png"
 
 [article]
     [article.license]
-        enabled = true
+        enabled = false
         default = "Licensed under CC BY-NC-SA 4.0"
 
 [widgets]
